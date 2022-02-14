@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.31fe7c75.chunk.css",
-    "main.js": "./static/js/main.ac586370.chunk.js",
+    "main.css": "./static/css/main.dd7052ec.chunk.css",
+    "main.js": "./static/js/main.187866a1.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.79507de4.js",
-    "static/js/2.7a0d1a8f.chunk.js": "./static/js/2.7a0d1a8f.chunk.js",
+    "static/js/2.af64c716.chunk.js": "./static/js/2.af64c716.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.7a0d1a8f.chunk.js.LICENSE.txt": "./static/js/2.7a0d1a8f.chunk.js.LICENSE.txt",
+    "static/js/2.af64c716.chunk.js.LICENSE.txt": "./static/js/2.af64c716.chunk.js.LICENSE.txt",
     "static/media/AAVE.e.b747f0c6.png": "./static/media/AAVE.e.b747f0c6.png",
     "static/media/APEIN.d569384f.png": "./static/media/APEIN.d569384f.png",
     "static/media/AVAX.1b6b3fb1.svg": "./static/media/AVAX.1b6b3fb1.svg",
@@ -48,26 +48,24 @@
     "static/media/YAK.ec1f1f43.png": "./static/media/YAK.ec1f1f43.png",
     "static/media/akar-icons_search.0129c00d.svg": "./static/media/akar-icons_search.0129c00d.svg",
     "static/media/arrow-down.1834c23f.svg": "./static/media/arrow-down.1834c23f.svg",
-    "static/media/arrows.d4da5d07.svg": "./static/media/arrows.d4da5d07.svg",
     "static/media/binarydao-icon.198440bb.svg": "./static/media/binarydao-icon.198440bb.svg",
     "static/media/binarydao-nav-header.198440bb.svg": "./static/media/binarydao-nav-header.198440bb.svg",
-    "static/media/bond.9bb2c50a.svg": "./static/media/bond.9bb2c50a.svg",
-    "static/media/dashboard.25e1b5ce.svg": "./static/media/dashboard.25e1b5ce.svg",
     "static/media/discord.d78c1d63.svg": "./static/media/discord.d78c1d63.svg",
     "static/media/github.498e6177.svg": "./static/media/github.498e6177.svg",
-    "static/media/globe.9206054e.svg": "./static/media/globe.9206054e.svg",
     "static/media/hamburger.f09dcc2a.svg": "./static/media/hamburger.f09dcc2a.svg",
     "static/media/landing-blobs-top.0af23cd1.png": "./static/media/landing-blobs-top.0af23cd1.png",
     "static/media/settings.5b041d4d.svg": "./static/media/settings.5b041d4d.svg",
+    "static/media/score.scss": "./static/media/sorce_bg.164d3a14.png",
     "static/media/stake.2157b85f.svg": "./static/media/stake.2157b85f.svg",
     "static/media/telegram.92cf6886.svg": "./static/media/telegram.92cf6886.svg",
     "static/media/twitter.f6e6e036.svg": "./static/media/twitter.f6e6e036.svg",
+    "static/media/unknow.e3cd105b.svg": "./static/media/unknow.e3cd105b.svg",
     "static/media/x.0e19066c.svg": "./static/media/x.0e19066c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.79507de4.js",
-    "static/js/2.7a0d1a8f.chunk.js",
-    "static/css/main.31fe7c75.chunk.css",
-    "static/js/main.ac586370.chunk.js"
+    "static/js/2.af64c716.chunk.js",
+    "static/css/main.dd7052ec.chunk.css",
+    "static/js/main.187866a1.chunk.js"
   ]
 }
