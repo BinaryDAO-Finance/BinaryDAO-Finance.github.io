@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.bc267466.chunk.css",
-    "main.js": "./static/js/main.065b8b1f.chunk.js",
+    "main.js": "./static/js/main.f236f1a1.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.79507de4.js",
-    "static/js/2.814d83d1.chunk.js": "./static/js/2.814d83d1.chunk.js",
+    "static/js/2.9f508702.chunk.js": "./static/js/2.9f508702.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.814d83d1.chunk.js.LICENSE.txt": "./static/js/2.814d83d1.chunk.js.LICENSE.txt",
+    "static/js/2.9f508702.chunk.js.LICENSE.txt": "./static/js/2.9f508702.chunk.js.LICENSE.txt",
     "static/media/AAVE.e.b747f0c6.png": "./static/media/AAVE.e.b747f0c6.png",
     "static/media/APEIN.d569384f.png": "./static/media/APEIN.d569384f.png",
     "static/media/AVAX.1b6b3fb1.svg": "./static/media/AVAX.1b6b3fb1.svg",
@@ -64,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.79507de4.js",
-    "static/js/2.814d83d1.chunk.js",
+    "static/js/2.9f508702.chunk.js",
     "static/css/main.bc267466.chunk.css",
-    "static/js/main.065b8b1f.chunk.js"
+    "static/js/main.f236f1a1.chunk.js"
   ]
 }
